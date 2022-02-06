@@ -1,2 +1,2 @@
-# test-project
-This is my test test project of AWS
+# test-batch
+This is my test batch
